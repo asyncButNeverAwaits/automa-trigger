@@ -1,0 +1,15 @@
+bin
+obj
+dist
+node_modules
+# Default ignored files
+/shelf/
+workspace.xml
+# Rider ignored files
+.idea.compressy.iml
+projectSettingsUpdater.xml
+modules.xml
+contentModel.xml
+logs
+requests
+.git
